@@ -6,3 +6,4 @@
     "preview": "vite preview" // locally preview production build
   }
 }
+ödev(dersler üzerinde değişiklik)
